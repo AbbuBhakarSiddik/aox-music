@@ -2,6 +2,8 @@
 
 A sleek, premium, and interactive music streaming web application built using **React 19**, **TypeScript**, **Vite**, and **Material-UI (MUI)**. It integrates with the **Jamendo Music API** to fetch and play high-quality audio tracks, featuring instant search, genre filters, and a custom audio player with real-time controls.
 
+<img width="1893" height="833" alt="Screenshot 2026-06-18 094826" src="https://github.com/user-attachments/assets/5ba91fea-e637-4d37-9b29-b825ca3bb823" />
+
 ---
 
 ## ✨ Key Features
